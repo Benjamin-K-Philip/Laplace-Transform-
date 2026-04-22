@@ -24,7 +24,7 @@ Following are the Problems selected:- <br>
 The above selected problems are from the **textbook Differential Equations With Applications and Historical Notes, from Chapter 9: Laplace Transforms, Section 50. The Laplace Transform** is a mathematical tool that shifts functions from the time domain ($variable \ x$) into the frequency domain ($variable \ p$). It is primarily used to simplify the process of solving linear differential equations by turning calculus into algebra. Following are the description for the above problems:
 
 ➤ **Distinguishing and Classification:** <br>
-   - **Laplace Problems (Question 1):** These are identified by functions of **$x$** (like $x$<sup>*5*</sup> or **$\cos 2x$**) being multiplied by an exponential **$e^{ax}$**. They are classified as Frequency Shifting problems.
+   - **Laplace Problems (Question 1):** These are identified by functions of **$x$** (like $x$<sup>*5*</sup> or **$\cos \ 2x$**) being multiplied by an exponential **$e^{ax}$**. They are classified as Frequency Shifting problems.
 
    - **Inverse Laplace Problems (Question 2):** These are identified by rational functions of $p$. They are classified based on their denominators—specifically those requiring Completing the Square or recognizing Shifted Power/Trig forms.
 
