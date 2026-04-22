@@ -40,7 +40,7 @@ The Laplace Transform is defined as: <br>
 
 Following are the procedures that describes the Laplace Transforms:
 
-➤ **Procedure for Laplace Transforms:**
+➤ **Procedure for Laplace Transforms:** <br>
 The goal is to transform a function of time **_f(x)_** into a function of the complex frequency **_F(p)_**.
 
    1. **Linearity Check:** If the function is a sum, such as **_f(x) = g(x) + h(x)_**, split it into individual parts i.e. **_L{g(x)} + L{h(x)}_**.
@@ -59,11 +59,13 @@ The goal is to transform a function of time **_f(x)_** into a function of the co
 
 <br><br>
 
-➤ **Procedure for Inverse Laplace Transforms:**
+➤ **Procedure for Inverse Laplace Transforms:** <br>
 The goal is to take a frequency domain function **_F(p)_** and return it to the time domain **_f(x)_**
 
    1. **Denominator Analysis:** If the denominator is a quadratic that cannot be factored (like **$p^2 + 2p + 5$**), then use Completing the Square to get it into the form **$(p + a)^2 + b^2$**. Using Partial Fraction Decomposition to break complex fractions into simpler terms.
 
    2. **Numerator Matching:** Adjusting the numerator to match the standard forms of Sine or Cosine. If _(p + a)^2_ in the denominator, the numerator must also be expressed in terms of _(p + a)_ to allow for an Inverse Shift.
+
+   3. **Apply the Inverse Shifting Theorem:** Identify the shift _(p + a)^2_. This tells the final time-domain function must be multiplied by _e<sup>ax</sup>_.
 
   
