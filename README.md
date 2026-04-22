@@ -32,5 +32,7 @@ The above selected problems are from the **textbook Differential Equations With 
 
 ---
 
+## Procedure/Method used
+The Laplace Transform is defined as:
 
 
