@@ -88,6 +88,19 @@ The following are the Algorithm/Coding Approach:
   ➤ **Modular Architecture:** Organizes the logic into separate functions for math problems, plotting, and the main menu for better maintainability.
 
   ➤ **Interactive Interface:** Implements a while loop and user input to provide a continuous, menu-driven command-line experience.
+
+---
+
+
+## Output Results
+<img width="1243" height="550" alt="Output Result-1 - Copy" src="https://github.com/user-attachments/assets/d814f82c-e2c6-4be3-b8bb-af73ed3b98fe" />
+<img width="1243" height="529" alt="Output Result-3 - Copy" src="https://github.com/user-attachments/assets/9daff858-2dc9-4362-b32b-2c3adea1a4d6" />
+<img width="1242" height="359" alt="Output Result-4 - Copy" src="https://github.com/user-attachments/assets/505f821a-f5ae-4d29-9563-0a5fc590af62" />
+
+---
+
+
+## Solution Graphs from the Code
    
 
   
