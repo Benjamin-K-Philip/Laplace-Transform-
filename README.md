@@ -9,9 +9,9 @@ The concepts of Laplace Transform and Inverse Laplace Transform is implemented b
 Following are the Problems selected:- <br>
 
 **Q1.) To solve the following Laplace Transform problems:** <br>
-**(a) *$x$*<sup>5</sup> *e*<sup>-2*x*</sup> <br>
-(b) (1 - *x*<sup>2</sup>) *e*<sup>-*x*</sup> <br>
-(c) *e*<sup>3*x*</sup> cos 2*x* <br>**
+**(a)** **$x^5 \, e^{-2x}$**
+**(b)** **$(1 - x^2) \, e^{x}$**
+**(c)** **$e^{3x} \cos 2x$**
 
 **Q2.) To solve the following Inverse Laplace transform problems:** <br>
 **(a) $\frac{6}{(p+2)^2 + 9}$**
@@ -100,7 +100,8 @@ The following are the Algorithm/Coding Approach:
 ---
 
 
-## Solution Graphs from the Code
-   
+## Solution Graphs from the Code <br>
+
+**Solution Graphs based on problems To solve the following Laplace Transform problems (Question 1):** <br>
 
   
