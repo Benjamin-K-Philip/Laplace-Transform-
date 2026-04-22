@@ -45,7 +45,7 @@ The goal is to transform a function of time $f(x)$ into a function of the comple
 
    1. **Linearity Check:** If the function is a sum, such as $f(x) = g(x) + h(x)$, split it into individual parts i.e. $L{g(x)} + L{h(x)}$.
 
-   2. **Identify the Core Function:** Looking for the basic trigonometric (sin, cos), hyperbolic, or power (___$x^{n}$___) function within the expression.
+   2. **Identify the Core Function:** Looking for the basic trigonometric (sin, cos), hyperbolic, or power (__$x^{n}$__) function within the expression.
 
    3. **Apply the First Shifting Theorem:** If the function is multiplied by **$e^{ax}$**, first we find the Laplace of the core function and then replace every **_p_** with **_(p - a)_**. <br>
    **Formula:** **$L\{{e^{ax}f(x)\}} = F(p - a)$**
