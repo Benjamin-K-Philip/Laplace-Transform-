@@ -64,4 +64,6 @@ The goal is to take a frequency domain function **_F(p)_** and return it to the 
 
    1. **Denominator Analysis:** If the denominator is a quadratic that cannot be factored (like **$p^2 + 2p + 5$**), then use Completing the Square to get it into the form **$(p + a)^2 + b^2$**. Using Partial Fraction Decomposition to break complex fractions into simpler terms.
 
+   2. **Numerator Matching:** Adjusting the numerator to match the standard forms of Sine or Cosine. If _(p + a)^2_ in the denominator, the numerator must also be expressed in terms of _(p + a)_ to allow for an Inverse Shift.
+
   
