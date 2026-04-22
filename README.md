@@ -68,4 +68,6 @@ The goal is to take a frequency domain function **_F(p)_** and return it to the 
 
    3. **Apply the Inverse Shifting Theorem:** Identify the shift **$(p + a)^2$**. This tells the final time-domain function must be multiplied by _e<sup>ax</sup>_.
 
+   4. $p$
+
   
