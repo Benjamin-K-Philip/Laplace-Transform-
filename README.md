@@ -74,6 +74,20 @@ The goal is to take a frequency domain function **_F(p)_** and return it to the 
 ---
 
 
+## Algorithm/Coding Approach: <br>
+The following are the Algorithm/Coding Approach:
+
+  ➤ **Symbolic Processing:** Using SymPy to treat variables as algebraic symbols for exact calculus instead of numerical approximations.
+
+  ➤ **Automated Transforms:** Employs built-in functions like laplace_transform with pre-defined assumptions (*real*, *positive*) to ensure clean, convergent results.
+
+  ➤ **Lambdification:** Using sp.lambdify to convert symbolic formulas into NumPy functions, making them compatible with numerical plotting.
+
+  ➤ **Result Cleaning:** Automatically removes the Heaviside step function via .replace() to improve output readability and prevent graphing errors.
+
+  ➤ **Modular Architecture:** Organizes the logic into separate functions for math problems, plotting, and the main menu for better maintainability.
+
+  ➤ **Interactive Interface:** Implements a while loop and user input to provide a continuous, menu-driven command-line experience.
    
 
   
