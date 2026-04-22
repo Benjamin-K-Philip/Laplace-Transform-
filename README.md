@@ -30,7 +30,7 @@ The above selected problems are from the **textbook Differential Equations With 
 
 ➤ **Use of Laplace Transforms (Question 1):** Converts complex differentiation and integration into simple algebraic multiplication and division. Used to model and analyze the behavior of electrical circuits and mechanical vibrations.
 
-➤ **Use of Inverse Laplace Transforms (Question 2):** Translates the algebraic solution found in the **$p\text{-domain}$** back into a readable **_x-domain_** format. Determines how a physical system will actually react over time when given a specific input or "impulse."
+➤ **Use of Inverse Laplace Transforms (Question 2):** Translates the algebraic solution found in the **$p\text{-domain}$** back into a readable **$x\text{-domain}$** format. Determines how a physical system will actually react over time when given a specific input or "impulse."
 
 ---
 
