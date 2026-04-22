@@ -122,3 +122,11 @@ The following are the Algorithm/Coding Approach:
 ### 2.) a.) Solution Graph of the problem $\frac{6}{(p+2)^2 + 9}$ 
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/456ae0bb-d722-46ce-9b8c-b5b31c1797d7" />
 <br><br>
+
+### 2.) b.) Solution Graph of the problem $\frac{12}{(p+3)^4}$
+<img width="1366" height="712" alt="image" src="https://github.com/user-attachments/assets/850f5896-d03b-4e04-94be-4919b0c24d3d" />
+<br><br>
+
+### 2.) c.) Solution Graph of the problem $\frac{p+3}{p^2 + 2p + 5}$
+<img width="1366" height="716" alt="image" src="https://github.com/user-attachments/assets/7956b468-dc93-452d-83ca-693fa7f216e0" />
+<br><br>
