@@ -26,7 +26,7 @@ The above selected problems are from the **textbook Differential Equations With 
 ➤ **Distinguishing and Classification:** <br>
    - **Laplace Problems (Question 1):** These are identified by functions of **$x$** (like $x$<sup>*5*</sup> or **$\cos 2x$**) being multiplied by an exponential **$e^{ax}$**. They are classified as Frequency Shifting problems.
 
-   - **Inverse Laplace Problems (Question 2):** These are identified by rational functions of **_p_**. They are classified based on their denominators—specifically those requiring Completing the Square or recognizing Shifted Power/Trig forms.
+   - **Inverse Laplace Problems (Question 2):** These are identified by rational functions of **$p$**. They are classified based on their denominators—specifically those requiring Completing the Square or recognizing Shifted Power/Trig forms.
 
 ➤ **Use of Laplace Transforms (Question 1):** Converts complex differentiation and integration into simple algebraic multiplication and division. Used to model and analyze the behavior of electrical circuits and mechanical vibrations.
 
