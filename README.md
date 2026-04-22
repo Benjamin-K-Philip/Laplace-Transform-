@@ -60,7 +60,7 @@ The goal is to transform a function of time $f(x)$ into a function of the comple
 <br>
 
 ➤ **Procedure for Inverse Laplace Transforms:** <br>
-The goal is to take a frequency domain function **_F(p)_** and return it to the time domain **_f(x)_**
+The goal is to take a frequency domain function $F(p)$ and return it to the time domain $f(x)$
 
    1. **Denominator Analysis:** If the denominator is a quadratic that cannot be factored (like **$p^2 + 2p + 5$**), then use Completing the Square to get it into the form **$(p + a)^2 + b^2$**. Using Partial Fraction Decomposition to break complex fractions into simpler terms.
 
