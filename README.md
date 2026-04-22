@@ -40,7 +40,7 @@ The Laplace Transform is defined as: <br>
 
 Following are the procedures that describes the Laplace Transforms:
 
-➤Procedure for Laplace Transforms:
+➤ Procedure for Laplace Transforms:
 The goal is to transform a function of time **_f(x)_** into a function of the complex frequency **_F(p)_**.
 
    1. **Linearity Check:** If the function is a sum, such as **_f(x) = g(x) + h(x)_**, split it into individual parts i.e. **_L{g(x)} + L{h(x)}_**.
