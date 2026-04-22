@@ -57,7 +57,7 @@ The goal is to transform a function of time **_f(x)_** into a function of the co
 
    5. **Simplification:** Combining the algebraic fractions into their simplest form.
 
-<br><br>
+<br>
 
 ➤ **Procedure for Inverse Laplace Transforms:** <br>
 The goal is to take a frequency domain function **_F(p)_** and return it to the time domain **_f(x)_**
