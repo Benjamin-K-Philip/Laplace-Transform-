@@ -19,3 +19,7 @@ Following are the Problems selected:- <br>
 (c) ( *p*+3 ) / ( *p*<sup>2</sup> + 2*p* + 5 ) <br>**
 
 
+The above selected problems are from the **textbook Differential Equations With Applications and Historical Notes, from Chapter 9: Laplace Transforms, Section 50. The Laplace Transform** is a mathematical tool that shifts functions from the time domain (**_variable x_**) into the frequency domain (**_variable p_**). It is primarily used to simplify the process of solving linear differential equations by turning calculus into algebra. Following are the description for the above problems:
+
+
+
