@@ -36,5 +36,5 @@ The above selected problems are from the **textbook Differential Equations With 
 
 ## Procedure/Method used
 The Laplace Transform is defined as:
-
+*L*[*f*(*x*)] = ∫₀∞ e<sup>-*p**x*</sup> *f*(*x*) d*x* = *F*(*p*)
 
