@@ -9,8 +9,8 @@ The concepts of Laplace Transform and Inverse Laplace Transform is implemented b
 Following are the Problems selected:- <br>
 
 **Q1.) To solve the following Laplace Transform problems:** <br>
-**(a)** **$x^5 \, e^{-2x}$** <br>
-**(b)** **$(1 - x^2) \, e^{x}$** <br>
+**(a)** **$x^5 \ e^{-2x}$** <br>
+**(b)** **$(1 - x^2) \ e^{x}$** <br>
 **(c)** **$e^{3x} \cos 2x$** <br>
 
 **Q2.) To solve the following Inverse Laplace transform problems:** <br>
