@@ -66,8 +66,10 @@ The goal is to take a frequency domain function **_F(p)_** and return it to the 
 
    2. **Numerator Matching:** Adjusting the numerator to match the standard forms of Sine or Cosine. If **$(p + a)^2$** in the denominator, the numerator must also be expressed in terms of _(p + a)_ to allow for an Inverse Shift.
 
-   3. **Apply the Inverse Shifting Theorem:** Identify the shift **$(p + a)^2$**. This tells the final time-domain function must be multiplied by _e<sup>ax</sup>_.
+   3. **Apply the Inverse Shifting Theorem:** Identify the shift **$(p + a)^2$**. This tells the final time-domain function must be multiplied by _e<sup>ax</sup>_. <br>
+   **Formula:** **$L^{-1}\{F(p - a)\} = e^{ax}f(x)$**
 
-   4. $p$
+   4. 
+   
 
   
