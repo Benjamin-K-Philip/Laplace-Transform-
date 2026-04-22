@@ -52,7 +52,9 @@ The goal is to transform a function of time **_f(x)_** into a function of the co
 
    4. **Using Simple Transform Pairs:** Using the Simple Transform Pairs Table to convert the core function.
    <img width="362" height="533" alt="image" src="https://github.com/user-attachments/assets/4fdc0286-f0f3-4b08-93c5-82642b175017" />
+   
 <br>
+
    5. **Simplification:** Combining the algebraic fractions into their simplest form.
 
 <br>
