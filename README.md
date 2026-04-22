@@ -48,7 +48,7 @@ The goal is to transform a function of time **_f(x)_** into a function of the co
    2. **Identify the Core Function:** Looking for the basic trigonometric (sin, cos), hyperbolic, or power (**_x<sup>n</sup>_**) function within the expression.
 
    3. **Apply the First Shifting Theorem:** If the function is multiplied by **$e^{ax}$**, first we find the Laplace of the core function and then replace every **_p_** with **_(p - a)_**. <br>
-   **Formula:** **$L\{e^{ax}f(x)\} = F(p - a)$**
+   **Formula:** **$L\{{e^{ax}f(x)\}} = F(p - a)$**
 
    4. **Using Simple Transform Pairs:** Using the Simple Transform Pairs Table to convert the core function.
    <img width="362" height="533" alt="image" src="https://github.com/user-attachments/assets/4fdc0286-f0f3-4b08-93c5-82642b175017" />
