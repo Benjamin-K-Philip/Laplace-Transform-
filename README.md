@@ -47,7 +47,7 @@ The goal is to transform a function of time $f(x)$ into a function of the comple
 
    2. **Identify the Core Function:** Looking for the basic trigonometric (sin, cos), hyperbolic, or power (__$x^{n}$__) function within the expression.
 
-   3. **Apply the First Shifting Theorem:** If the function is multiplied by **$e^{ax}$**, first we find the Laplace of the core function and then replace every **_p_** with **_(p - a)_**. <br>
+   3. **Apply the First Shifting Theorem:** If the function is multiplied by **$e^{ax}$**, first we find the Laplace of the core function and then replace every $p$ with $(p - a)$. <br>
    **Formula:** **$L\{{e^{ax}f(x)\}} = F(p - a)$**
 
    4. **Using Simple Transform Pairs:** Using the Simple Transform Pairs Table to convert the core function.
