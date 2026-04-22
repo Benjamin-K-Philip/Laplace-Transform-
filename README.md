@@ -47,7 +47,7 @@ The goal is to transform a function of time **_f(x)_** into a function of the co
 
    2. **Identify the Core Function:** Looking for the basic trigonometric (sin, cos), hyperbolic, or power (**_x<sup>n</sup>_**) function within the expression.
 
-   3. **Apply the First Shifting Theorem:** If the function is multiplied by **_e<sup>ax</sup>_**, first we find the Laplace of the core function and then replace every **_p_** with **_(p - a)_**. <br>
+   3. **Apply the First Shifting Theorem:** If the function is multiplied by **$e^{ax}$**, first we find the Laplace of the core function and then replace every **_p_** with **_(p - a)_**. <br>
    **Formula:** **$L\{e^{ax}f(x)\} = F(p - a)$**
 
    4. **Using Simple Transform Pairs:** Using the Simple Transform Pairs Table to convert the core function.
@@ -66,7 +66,7 @@ The goal is to take a frequency domain function **_F(p)_** and return it to the 
 
    2. **Numerator Matching:** Adjusting the numerator to match the standard forms of Sine or Cosine. If **$(p + a)^2$** in the denominator, the numerator must also be expressed in terms of _(p + a)_ to allow for an Inverse Shift.
 
-   3. **Apply the Inverse Shifting Theorem:** Identify the shift **$(p + a)^2$**. This tells the final time-domain function must be multiplied by _e<sup>ax</sup>_. <br>
+   3. **Apply the Inverse Shifting Theorem:** Identify the shift **$(p + a)^2$**. This tells the final time-domain function must be multiplied by **$e^{ax}$**. <br>
    **Formula:** **$L^{-1}\{F(p - a)\} = e^{ax}f(x)$**
 
    4. **Inverse Mapping:** Using the Standard Transform Pairs Table in reverse to find the original function.
