@@ -43,6 +43,6 @@ Following are the procedures that describes the Laplace Transforms:
 ➤ Procedure for Laplace Transforms:
 The goal is to transform a function of time **_f(x)_** into a function of the complex frequency **_F(p)_**.
 
-   1. **Linearity Check:** If the function is a sum, such as **_f(x) = g(x) + h(x)_**, split it into individual parts i.e. **_L{g(x)} + L{h(x)}_**.
+    1. **Linearity Check:** If the function is a sum, such as **_f(x) = g(x) + h(x)_**, split it into individual parts i.e. **_L{g(x)} + L{h(x)}_**.
 
-   2. **Identify the Core Function:** Looking for the basic trigonometric (sin, cos), hyperbolic, or power (**_x<sup>n</sup>_**) function within the expression.
+    2. **Identify the Core Function:** Looking for the basic trigonometric (sin, cos), hyperbolic, or power (**_x<sup>n</sup>_**) function within the expression.
