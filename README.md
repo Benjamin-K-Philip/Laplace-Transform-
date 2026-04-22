@@ -36,5 +36,5 @@ The above selected problems are from the **textbook Differential Equations With 
 
 ## Procedure/Method used
 The Laplace Transform is defined as: <br>
-$ **L[f(x)] = \int_0^{\infty} e^{-px} f(x) \, dx = F(p)** $
+**$L[f(x)] = \int_0^{\infty} e^{-px} f(x) \, dx = F(p)$** 
 
