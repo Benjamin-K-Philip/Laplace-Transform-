@@ -102,6 +102,16 @@ The following are the Algorithm/Coding Approach:
 
 ## Solution Graphs from the Code <br>
 
-**Solution Graphs based on problems To solve the following Laplace Transform problems (Question 1):** <br>
+## Solution Graphs based on problems To solve the following Laplace Transform problems (Question 1):** <br>
 
-  
+### 1.) a.) Solution Graph of the problem **$x^5 \ e^{-2x}$**
+<img width="1366" height="714" alt="image" src="https://github.com/user-attachments/assets/2cf85cd1-5090-4dbf-8ff3-4ee8457a8dba" />
+<br>
+
+### 1.) b.) Solution Graph of the problem **$(1 - x^2) \ e^{x}$**
+<img width="1366" height="714" alt="image" src="https://github.com/user-attachments/assets/0d35e018-947a-40bf-950b-db7ecacc8774" />
+<br>
+
+### 1.) c.) Solution Graph of the problem **$e^{3x} \cos 2x$** 
+<img width="1366" height="714" alt="image" src="https://github.com/user-attachments/assets/5d77af9d-5fd3-40af-8c30-ea48abfbbd0f" />
+<br> <br>
