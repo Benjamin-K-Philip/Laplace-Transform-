@@ -9,7 +9,7 @@ The concepts of Laplace Transform and Inverse Laplace Transform is implemented b
 Following are the Problems selected:- <br>
 
 **Q1.) To solve the following Laplace Transform problems:** <br>
-**(a) *x*<sup>5</sup> *e*<sup>-2*x*</sup> <br>
+**(a) *$x$*<sup>5</sup> *e*<sup>-2*x*</sup> <br>
 (b) (1 - *x*<sup>2</sup>) *e*<sup>-*x*</sup> <br>
 (c) *e*<sup>3*x*</sup> cos 2*x* <br>**
 
@@ -69,7 +69,11 @@ The goal is to take a frequency domain function **_F(p)_** and return it to the 
    3. **Apply the Inverse Shifting Theorem:** Identify the shift **$(p + a)^2$**. This tells the final time-domain function must be multiplied by _e<sup>ax</sup>_. <br>
    **Formula:** **$L^{-1}\{F(p - a)\} = e^{ax}f(x)$**
 
-   4. 
+   4. **Inverse Mapping:** Using the Standard Transform Pairs Table in reverse to find the original function.
+
+---
+
+
    
 
   
